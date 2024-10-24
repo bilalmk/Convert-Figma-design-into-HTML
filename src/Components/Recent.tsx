@@ -1,6 +1,6 @@
 import React from "react";
 
-const Recents = () => {
+const Recent = () => {
   return (
     <div className="pt-8 pb-14 bg-[#f4e2e2]">
         <div className="w-[68%] flex justify-between m-auto">
@@ -23,4 +23,4 @@ const Recents = () => {
   );
 };
 
-export default Recents;
+export default Recent;

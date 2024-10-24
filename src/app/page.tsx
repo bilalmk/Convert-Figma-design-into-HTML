@@ -2,7 +2,8 @@ import Featured from "@/components/Featured";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
-import Recents from "@/components/Recents";
+import Recent from "@/components/Recent";
+
 
 
 export default function Home() {
@@ -10,7 +11,7 @@ export default function Home() {
     <div>
       <Navbar/>
       <Hero/>
-      <Recents/>
+      <Recent/>
       <Featured/>
       <Footer/>
     </div>
