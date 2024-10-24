@@ -1,8 +1,8 @@
-import Featured from "@/Components/Featured";
-import Footer from "@/Components/Footer";
-import Hero from "@/Components/Hero";
-import Navbar from "@/Components/Navbar";
-import Recents from "@/Components/Recents";
+import Featured from "@/components/Featured";
+import Footer from "@/components/Footer";
+import Hero from "@/components/Hero";
+import Navbar from "@/components/Navbar";
+import Recents from "@/components/Recents";
 
 
 export default function Home() {
